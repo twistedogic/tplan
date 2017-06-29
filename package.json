@@ -4,12 +4,15 @@
   "private": true,
   "homepage": "https://twistedogic.githug.io/tplan",
   "dependencies": {
+    "fastclick": "^1.0.6",
     "gh-pages": "^1.0.0",
     "lodash": "^4.17.4",
     "material-ui": "^0.18.3",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
+    "react-simple-chatbot": "^0.1.11",
     "react-tap-event-plugin": "^2.0.1",
+    "styled-components": "^2.1.0",
     "tabletop": "^1.5.2"
   },
   "devDependencies": {
